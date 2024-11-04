@@ -2,11 +2,11 @@
 
 [![Stars](https://img.shields.io/github/stars/septwong/QuantumultX)](https://github.com/septwong/QuantumultX/stargazers)
 [![Fork](https://img.shields.io/github/forks/septwong/QuantumultX)](https://github.com/septwong/QuantumultX/network/members)
-[![Commit](https://img.shields.io/github/commit-activity/m/septwong/QuantumultX?label=Commits)](https://github.com/septwong/QuantumultX/commits/master)
-<!-- [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021) -->
+[![Follow](https://img.shields.io/github/followers/septwong?label=follow&style=social)](https://github.com/septwong)\
 [![Issues](https://img.shields.io/github/issues/septwong/QuantumultX)](https://github.com/septwong/QuantumultX/issues)
-[![](https://img.shields.io/github/last-commit/septwong/QuantumultX)](https://github.com/septwong)
-[![](https://img.shields.io/github/followers/septwong?label=follow&style=social)](https://github.com/septwong)
+[![Commit](https://img.shields.io/github/commit-activity/m/septwong/QuantumultX?label=Commits)](https://github.com/septwong/QuantumultX/commits/master)
+[![Last commit](https://img.shields.io/github/last-commit/septwong/QuantumultX)](https://github.com/septwong)
+<!-- [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021) -->
 
 ![Visitor Count](https://profile-counter.glitch.me/septwong/count.svg)  
 
