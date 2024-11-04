@@ -16,10 +16,17 @@
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/septwong/QuantumultX/issues)
 
 - QuantumultX
+  - iOS: [xintaikeji](https://github.com/septwong/QuantumultX/blob/main/xintaikeji/QuantumultX-iOS)
+  - macOS: [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/QuantumultX-macOS)
 - Shadowrocket
+  - iOS: [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-iOS.conf)
+  - macOS: [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-macOS.conf)
 - Loon
+  - [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Loon.conf)
 - Stash
+  - [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Stash.yaml)
 - Surge
+  - [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Surge.conf)
 
 ---
 
