@@ -16,17 +16,24 @@
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/septwong/QuantumultX/issues)
 
 - QuantumultX
-  - iOS: [xintaikeji](https://github.com/septwong/QuantumultX/blob/main/xintaikeji/QuantumultX-iOS)
-  - macOS: [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/QuantumultX-macOS)
+  - iOS: [link1](https://github.com/septwong/QuantumultX/blob/main/xintaikeji/QuantumultX-iOS)
+  - macOS: [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/QuantumultX-macOS)
 - Shadowrocket
-  - iOS: [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-iOS.conf)
-  - macOS: [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-macOS.conf)
+  - iOS: [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-iOS.conf)
+  - macOS: [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-macOS.conf)
 - Loon
-  - [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Loon.conf)
+  - [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Loon.conf)
 - Stash
-  - [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Stash.yaml)
+  - [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Stash.yaml)
 - Surge
-  - [xintaikeji](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Surge.conf)
+  - [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Surge.conf)
+
+---
+
+- Github [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
+- 自用Clash配置 [ClashforWindows.yaml](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
+- 自用小火箭最简配置 [Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
+- 详细的带图指南 [Quantumult X 不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 ---
 
