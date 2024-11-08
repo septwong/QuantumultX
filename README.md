@@ -41,6 +41,7 @@
 - 自用小火箭最简配置 [Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
 - 详细的带图指南 [Quantumult X 不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 - GeoIP [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb)
+- QuantumultX [资源解析器](https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js)
 
 ---
 
