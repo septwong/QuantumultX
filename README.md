@@ -30,10 +30,17 @@
 
 ---
 
-- Github [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
+- Github 
+  - ddgksf2013 [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
+  - blackmatrix7 [分流规则、重写写规则及脚本](https://github.com/blackmatrix7/ios_rule_script)
+    - [分流规则](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+  - Orz-3 [图标库](https://github.com/Orz-3/mini)
+- 自用 ChatGPT 分流 [OpenAi.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
+- 网易云音乐分流 [NeteaseMusic.list](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
 - 自用Clash配置 [ClashforWindows.yaml](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
 - 自用小火箭最简配置 [Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
 - 详细的带图指南 [Quantumult X 不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
+- GeoIP [GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb)
 
 ---
 
