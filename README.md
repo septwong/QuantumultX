@@ -16,8 +16,8 @@
 > [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/septwong/QuantumultX/issues)
 
 - QuantumultX
-  - iOS: [link1](https://github.com/septwong/QuantumultX/blob/main/xintaikeji/QuantumultX-iOS)
-  - macOS: [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/QuantumultX-macOS)
+  - iOS: [link1](https://github.com/septwong/QuantumultX/blob/main/xintaikeji/QuantumultX-iOS.conf)
+  - macOS: [link1](https://github.com/septwong/QuantumultX/blob/main/xintaikeji/QuantumultX-macOS.conf)
 - Shadowrocket
   - iOS: [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-iOS.conf)
   - macOS: [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Shadowrocket-macOS.conf)
