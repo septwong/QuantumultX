@@ -62,8 +62,10 @@
   - [Hackl0us GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb)
   - [Loyalsoldier geoip](https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb)
 - QuantumultX [资源解析器](https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js)
-- 重写链接 [deezertidal](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)
-- 小火箭规则 [deezertidal](https://github.com/deezertidal/shadowrocket-rules)
+- QuantumultX 重写链接 [deezertidal/QuantumultX-Rewrite](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)
+- 小火箭规则 [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules)
+- Shadowrocket Loon QuantumultX Surge Stash的相关配置 模块 重写 插件 [whatshub.top](https://whatshub.top/)
+  - [QuantumultX 重写](https://whatshub.top/quantumultx)
 
 ---
 
@@ -75,6 +77,10 @@ https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf
 
 ```html
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
+```
+
+```html
+https://whatshub.top/config/qx.conf
 ```
 
 ```html
