@@ -38,6 +38,10 @@
 
 ---
 
+- 自用 macOS QX 配置: [my.conf](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/my/QuantumultX-macOS.conf)
+
+---
+
 - Github 
   - ddgksf2013 [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
   - blackmatrix7 [分流规则、重写写规则及脚本](https://github.com/blackmatrix7/ios_rule_script)
