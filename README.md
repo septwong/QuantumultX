@@ -57,10 +57,10 @@
   <!-- - [Orz-3图标库（mini style）](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fgithub.com%2FOrz-3%2Fmini%2Fraw%2Fmaster%2Fmini.json%22%0A%5D) -->
   - [Orz-3图标库（mini color）](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FOrz-3%2Fmini%2Fmaster%2FminiColor.json%22%0A%5D)
   - [Semporia库 ](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FSemporia%2FHand-Painted-icon%2Fmaster%2FSemporia.json%22%0A%5D)
-- 自用 ChatGPT 分流 [OpenAi.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
+- ChatGPT 分流 [OpenAi.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
 - 网易云音乐分流 [NeteaseMusic.list](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
-- 自用Clash配置 [ClashforWindows.yaml](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
-- 自用小火箭最简配置 [Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
+- Clash配置 [ClashforWindows.yaml](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
+- 小火箭最简配置 [Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
 - 详细的带图指南 [Quantumult X 不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 - GeoIP 
   - [Hackl0us GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb)
