@@ -60,7 +60,9 @@
 - ChatGPT 分流 [OpenAi.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
 - 网易云音乐分流 [NeteaseMusic.list](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
 - Clash配置 [ClashforWindows.yaml](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
-- 小火箭最简配置 [Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
+- 小火箭最简配置
+  - [ddgksf2013 - Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
+  - [Johnshall - Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
 - 详细的带图指南 [Quantumult X 不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 - GeoIP 
   - [Hackl0us GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb)
