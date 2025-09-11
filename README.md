@@ -46,6 +46,7 @@
   - ddgksf2013 [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
   - blackmatrix7 [分流规则、重写写规则及脚本](https://github.com/blackmatrix7/ios_rule_script)
     - [分流规则](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/QuantumultX)
+  - app2smile [iOS App去广告](https://github.com/app2smile/rules)
   - 图标库
     - Koolson Qure [图标库](https://github.com/Koolson/Qure)
     - Orz-3 Mini [图标库](https://github.com/Orz-3/mini)
