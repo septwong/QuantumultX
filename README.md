@@ -21,7 +21,7 @@
 - 只是搬运和同步更新大佬脚本，不负责维护脚本！
 - 只测试自用脚本，其他大部分脚本未测试可用性.
   
----
+<!-- ---
 
 - QuantumultX
   - iOS: [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/QuantumultX-iOS.conf)
@@ -34,7 +34,14 @@
 - Stash
   - [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Stash.yaml)
 - Surge
-  - [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Surge.conf)
+  - [link1](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/xintaikeji/Surge.conf) -->
+
+---
+
+- Shadowrocket Loon QuantumultX Surge Stash的相关配置 模块 重写 插件 [yfamilys.com](https://yfamilys.com/)
+  - [ShadowRocket 模块](https://yfamilys.com/shadowrocket)
+  - [QuantumultX 重写](https://yfamilys.com/quantumultx)
+  
 
 ---
 
@@ -48,7 +55,9 @@
 
 ---
 
-- Github 
+- QuantumultX
+  - 当前使用：**懒人配置** [ddgksf2013.top](https://ddgksf2013.top/Profile/QuantumultX.conf)
+  - **懒人配置** [yfamilys.com](https://yfamilys.com/config/qx.conf)
   - ddgksf2013 [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
     - 新导航网站 [墨魚手記](https://ddgksf2013.top/)
   - TG-Twilight [秋风广告规则](https://github.com/TG-Twilight/AWAvenue-Ads-Rule)
@@ -65,12 +74,9 @@
     - Orz-3 Face [图标库](https://github.com/Orz-3/face)
   
 ---
-- Shadowrocket Loon QuantumultX Surge Stash的相关配置 模块 重写 插件 [yfamilys.com](https://yfamilys.com/)
-  - [ShadowRocket 模块](https://yfamilys.com/shadowrocket)
-  - [QuantumultX 重写](https://yfamilys.com/quantumultx)
-  
----
+
 - 小火箭
+  - 当前使用：**懒人配置** [yfamilys.com](https://yfamilys.com/config/shadowrocket_basic.conf)
   - [ddgksf2013 - Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
     - 最简配置
   - [Johnshall - Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
