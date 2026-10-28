@@ -57,6 +57,7 @@
 
 - QuantumultX
   - 当前使用：**懒人配置** [ddgksf2013.top](https://ddgksf2013.top/Profile/QuantumultX.conf)
+    - 🟢 墨鱼提醒passphrase和p12代为证书&主机名部分, 更新配置前可把旧的配置中passphrase和p12代码拷贝下来, 导入新的配置文件把内容粘贴在对应位置就不用重装证书
   - **懒人配置** [yfamilys.com](https://yfamilys.com/config/qx.conf)
   - ddgksf2013 [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
     - 新导航网站 [墨魚手記](https://ddgksf2013.top/)
