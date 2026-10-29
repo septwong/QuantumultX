@@ -45,18 +45,45 @@
 
 ---
 
-- [Quantumult X Wiki Book](https://qx.atlucky.me/)
-  - 一本网友整理的小册子，非常详细，每个页面，每个按钮，各种强大功能都做了详细的图解。
-- [iPhone 通过 Quantumult X 去广告教程](https://www.cnblogs.com/PeterJXL/p/18723758)
+- 广告规则
+  - [秋风广告规则](https://awavenue.top/)
+    - 众多优秀广告规则的上游、开源社区中最棒的广告过滤器列表之一，适配多种主流广告拦截/代理工具。
+  - [anti-AD](https://anti-ad.net/)
+    - 致力于成为中文区命中率最高广告过滤列表，实现精确的广告屏蔽和隐私保护。
+
 ---
 
-- 自用 macOS QX 配置: [my.conf](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/my/QuantumultX-macOS.conf)
-- 🔥注意：**如果你更换了配置（例如更换了规则），需要重新导入机场订阅，安装证书以及打开重写、MITM 开关**。
+- 自用
+  - QuantumultX 
+    - **懒人配置** [ddgksf2013.top](https://ddgksf2013.top/Profile/QuantumultX.conf)
+    - 分流：
+      - [秋风广告规则](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-QuantumultX.list)
+    - 重写：
+      - [去开屏广告融合版ultra+](https://yfamilys.com/rewrite/adultraplus.conf)
+      - [微博去广告](https://yfamilys.com/rewrite/weiboad.conf)
+      - [YouTube去广告](https://yfamilys.com/rewrite/youtube.conf)
 
+  - Shadowrocket
+    - **懒人配置** [yfamilys.com](https://yfamilys.com/config/shadowrocket_basic.conf)
+    - 模块：
+      - [秋风广告规则](https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Shadowrocket.module)
+      - [去开屏广告融合版ultra+](https://yfamilys.com/module/adultraplus.module)
+      - [YouTube去广告](https://yfamilys.com/module/YouTubeAd.sgmodule)
+      - [微信公众号去广告](https://yfamilys.com/module/wechatad.module)
+      - [微博去广告](https://yfamilys.com/module/weiboad.module)
+      - [微博lite去广告](https://yfamilys.com/module/weibolitead.module)
+      - [喜马拉雅去广告](https://yfamilys.com/module/xmlyad.module)
+      - [知乎去广告](https://yfamilys.com/module/xmlyad.module)
+      - [高德地图去广告](https://yfamilys.com/module/gddt.module)
+      - [AppStore限免APP](https://yfamilys.com/module/appsdoor.module)
+      - [阿里云盘签到](https://yfamilys.com/module/aliyun.module)
+  
+---
+- 🔥注意：**如果你更换了完整配置，需要重新导入机场订阅，安装证书以及打开重写、MITM 开关**。
 ---
 
 - QuantumultX
-  - 当前使用：**懒人配置** [ddgksf2013.top](https://ddgksf2013.top/Profile/QuantumultX.conf)
+  - **懒人配置** [ddgksf2013.top](https://ddgksf2013.top/Profile/QuantumultX.conf)
     - 🟢 墨鱼提醒passphrase和p12代为证书&主机名部分, 更新配置前可把旧的配置中passphrase和p12代码拷贝下来, 导入新的配置文件把内容粘贴在对应位置就不用重装证书
   - **懒人配置** [yfamilys.com](https://yfamilys.com/config/qx.conf)
   - ddgksf2013 [墨鱼去广告规则](https://github.com/ddgksf2013/ddgksf2013)
@@ -76,8 +103,8 @@
   
 ---
 
-- 小火箭
-  - 当前使用：**懒人配置** [yfamilys.com](https://yfamilys.com/config/shadowrocket_basic.conf)
+- Shadowrocket
+  - **懒人配置** [yfamilys.com](https://yfamilys.com/config/shadowrocket_basic.conf)
   - [ddgksf2013 - Shadowrocket.conf](https://github.com/ddgksf2013/Profile/raw/master/Shadowrocket.conf)
     - 最简配置
   - [Johnshall - Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever)
@@ -85,6 +112,14 @@
   - 小火箭规则 [deezertidal/shadowrocket-rules](https://github.com/deezertidal/shadowrocket-rules)
 
 ---
+
+- [Quantumult X Wiki Book](https://qx.atlucky.me/)
+  - 一本网友整理的小册子，非常详细，每个页面，每个按钮，各种强大功能都做了详细的图解。
+- [iPhone 通过 Quantumult X 去广告教程](https://www.cnblogs.com/PeterJXL/p/18723758)
+
+
+---
+
 - GeoIP 
   - [Hackl0us GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb)
   - [Loyalsoldier geoip](https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb)
@@ -102,6 +137,7 @@
   - [Semporia库 ](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FSemporia%2FHand-Painted-icon%2Fmaster%2FSemporia.json%22%0A%5D)
 
 ---
+- 自用 macOS QX 配置: [my.conf](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/my/QuantumultX-macOS.conf)
 
 - ChatGPT 分流 [OpenAi.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
 - 网易云音乐分流 [NeteaseMusic.list](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
