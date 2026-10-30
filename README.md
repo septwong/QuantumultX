@@ -116,16 +116,14 @@
 - [Quantumult X Wiki Book](https://qx.atlucky.me/)
   - 一本网友整理的小册子，非常详细，每个页面，每个按钮，各种强大功能都做了详细的图解。
 - [iPhone 通过 Quantumult X 去广告教程](https://www.cnblogs.com/PeterJXL/p/18723758)
-
+- QuantumultX [资源解析器](https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js)
+- QuantumultX 重写链接 [deezertidal/QuantumultX-Rewrite](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)
 
 ---
 
 - GeoIP 
   - [Hackl0us GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN/raw/release/Country.mmdb)
   - [Loyalsoldier geoip](https://raw.githubusercontent.com/Loyalsoldier/geoip/release/Country.mmdb)
-- QuantumultX [资源解析器](https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js)
-- QuantumultX 重写链接 [deezertidal/QuantumultX-Rewrite](https://github.com/deezertidal/QuantumultX-Rewrite?tab=readme-ov-file)
-
 ---
 
 - 图标库
@@ -137,11 +135,11 @@
   - [Semporia库 ](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FSemporia%2FHand-Painted-icon%2Fmaster%2FSemporia.json%22%0A%5D)
 
 ---
-- 自用 macOS QX 配置: [my.conf](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/my/QuantumultX-macOS.conf)
+<!-- - 自用 macOS QX 配置: [my.conf](https://raw.githubusercontent.com/septwong/QuantumultX/refs/heads/main/my/QuantumultX-macOS.conf) -->
 
-- ChatGPT 分流 [OpenAi.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list)
-- 网易云音乐分流 [NeteaseMusic.list](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list)
-- Clash配置 [ClashforWindows.yaml](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml)
+<!-- - ChatGPT 分流 [OpenAi.list](https://raw.githubusercontent.com/ddgksf2013/Filter/master/OpenAi.list) -->
+<!-- - 网易云音乐分流 [NeteaseMusic.list](https://github.com/ddgksf2013/Filter/raw/master/NeteaseMusic.list) -->
+<!-- - Clash配置 [ClashforWindows.yaml](https://raw.githubusercontent.com/ddgksf2013/Profile/master/ClashforWindows.yaml) -->
 
 - 详细的带图指南 [Quantumult X 不完全指南](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
@@ -150,25 +148,34 @@
 Quantumult X 懒人配置:
 
 ```html
-https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf
+墨鱼小白 2.0
+https://ddgksf2013.top/Profile/QuantumultX.conf
 ```
 
 ```html
+Orz-3 小白配置
 https://raw.githubusercontent.com/Orz-3/QuantumultX/master/Orz-3.conf
 ```
 
 ```html
-https://whatshub.top/config/qx.conf
+yfamilys 配置文件
+https://yfamilys.com/config/qx.conf
 ```
-
+<!-- 
 ```html
+停更了
 https://raw.githubusercontent.com/w37fhy/QuantumultX/master/QuantumultX_diy.conf
-```
+``` -->
 
-```html
+<!-- ```html
+用不上了
 https://raw.githubusercontent.com/As-Lucky/Lucky/main/Lucky-qx.conf
-```
+``` -->
 
+<!-- ```html
+https://raw.githubusercontent.com/suversal/qx-config-sync/main/MyQuantumultX_Local.conf
+详情：https://github.com/suversal/qx-config-sync
+``` -->
 ---
 
 ## Star 历史
